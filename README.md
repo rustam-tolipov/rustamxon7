@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://rustam.dev)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavasSript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rustamxon7](https://github.com/Rustamxon7)
 
