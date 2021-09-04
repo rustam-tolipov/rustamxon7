@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate Front End Developer from Uzbekistan</h3>
+<p>Hi! I am Rustamjon. Currenctly a remote school student studying for to become Full Stack Development. I have a great passion to learn languages and frameworks like Javascript, React, Ruby, and Ruby on Rails.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxon7&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 🔭 I’m currently working on [this project](https://github.com/Rustamxon7/rustamxon7/projects/1)
 
-- 🌱 I’m currently learning **JavasSript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rustamxon7](https://github.com/Rustamxon7)
 
