@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rustomxon7777" target="blank"><img src="https://img.shields.io/twitter/follow/rustomxon7777?logo=twitter&style=for-the-badge" alt="rustomxon7777" /></a> </p>
 
+- 💼 This is my [portfolio](https://rustamxon7.github.io/My-portfolio-project/)
+
 - 🔭 I’m currently working on [this project](https://github.com/Rustamxon7/rustamxon7/projects/1)
 
 - 🌱 I’m currently learning **JavasSript**
