@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
 
-<p align="center"><i>Currently, I am a remote school student studying to become Full-Stack Developer. I have a great passion for learning languages and frameworks like Javascript, React Ruby, and Ruby on Rails. Additionally, I am looking for new opportunities!</i></p>
+<p align="center"><i>Currently, I am a remote school student studying to become Full-Stack Developer. I have a great passion for learning languages and frameworks like Javascript, React Ruby, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxon7&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 
