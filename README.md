@@ -9,11 +9,17 @@
 
 <!-- - 🔭 I’m currently working on [this project](https://github.com/Rustamxon7/rustamxon7/projects/1) -->
 
-- 🌱 I’m currently learning **JavaScript**, **APIs**
+- 🔭 I’m currently training to become a full-stack software developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rustamxon7](https://github.com/Rustamxon7)
+- 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
 
-- 💬 Ask me about **UI & UX design**
+- 🧑🏻‍💻 All of my projects are available at [https://github.com/Rustamxon7](https://github.com/Rustamxon7)
+
+- 💻 Language stack: JavaScript, React, Ruby, Rails
+
+- 🌱  I'm smoothing my React and Redux skills
+
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me [Email](rustamxontolipov788@gmail.com) | [Linkedin](https://linkedin.com/in/rustamjon-tolipov-6a831020b)
 
