@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxon7&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustamxon7&row=1&margin-w=15&margin-h=15" alt="rustamxon7" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustamxon7&row=1&margin-w=15&margin-h=15" alt="rustamxon7" /></a> </p> -->
 
 <!-- - 🔭 I’m currently working on [this project](https://github.com/Rustamxon7/rustamxon7/projects/1) -->
 
