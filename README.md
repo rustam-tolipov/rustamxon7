@@ -9,6 +9,8 @@
 
 <!-- - 🔭 I’m currently working on [this project](https://github.com/Rustamxon7/rustamxon7/projects/1) -->
 
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
 - 🔭 I’m currently training to become a Full-stack software developer.
 
 - 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
