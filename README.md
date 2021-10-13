@@ -9,8 +9,10 @@
 
 <!-- - 🔭 I’m currently working on [this project](https://github.com/Rustamxon7/rustamxon7/projects/1) -->
 
-<!-- <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" /> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137183718-e051fc76-86f5-450e-a78b-5c4042ffe59e.jpg" width="350" height="350" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" />
+<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137183718-e051fc76-86f5-450e-a78b-5c4042ffe59e.jpg" width="350" height="350" /> -->
+<!-- ![github profile pic](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif) -->
+
 
 - 🔭 I’m currently training to become a Full-stack software developer.
 
