@@ -15,13 +15,13 @@
 
 - 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
 
-- 🧑🏻‍💻 All of my projects are available at [https://github.com/Rustamxon7](https://github.com/Rustamxon7)
+- 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Rustamxon7)
 
 - 💻 Language stack: JavaScript, React, Ruby, Rails
 
 - 🌱  I'm smoothing my React and Redux skills
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything related to coding**
 
 - 📫 How to reach me [Email](rustamxontolipov788@gmail.com) | [Linkedin](https://linkedin.com/in/rustamjon-tolipov-6a831020b)
 
