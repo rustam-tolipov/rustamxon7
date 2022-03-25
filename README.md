@@ -60,4 +60,7 @@ href="rustamxontolipov788@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
 <div/>
   
-<p align= 'center'>You can check out my portfolio <a href="https://rustamxon7.github.io/My-Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p align= 'center'>
+  Portfolio under construction!
+<!--   You can check out my portfolio <a href="https://rustamxon7.github.io/My-Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"> -->
+</p>
