@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently training to become a Full-stack software developer.
 
-- 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
+- 👨🏻‍🎓 I’m currently performing Internship at iTechArt Group.
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Rustamxon7)
 
-- 💻 Language stack: JavaScript, React, Ruby, Rails
+- 💻 Language stack: JavaScript, React, Ruby, Ruby on Rails, Rest API
 
-- 🌱  I'm smoothing my React and Redux skills
+- 🌱  I'm smoothing my Rails and React skills
 
 - 💬 Ask me about **Anything related to coding**
 
