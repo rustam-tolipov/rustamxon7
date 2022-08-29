@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rustamjon</h1>
+<h1 align="center">Hi 👋, I'm Rustamjon(Rostam)</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
 
 <p align="center"><i>Currently, I am mentoring 4+ students to become a Full-Stack Web Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
