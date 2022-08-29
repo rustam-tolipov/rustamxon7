@@ -14,9 +14,9 @@
 <!-- ![github profile pic](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif) -->
 
 
-- 🔭 I’m currently training to become a Full-stack software developer.
+- 🔭 I’m currently training 4+ students to become a Full-stack software developer.
 
-- 👨🏻‍🎓 I’m currently performing Internship at iTechArt Group.
+- 👨🏻‍🎓 I’m currently completed Internship at iTechArt Group.
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Rustamxon7)
 
