@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently training 4+ students to become a Full-stack software developer.
 
-- 👨🏻‍🎓 I’m currently completed Internship at iTechArt Group.
+- 👨🏻‍🎓 I have currently completed Internship at iTechArt Group.
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Rustamxon7)
 
