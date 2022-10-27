@@ -62,5 +62,5 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
   
 <p align= 'center'>
   Portfolio under construction!
-  You can check out my portfolio <a href="https://rustambek-portfolio.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+  You can check out my portfolio <a href="https://www.rustam.one/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 </p>
