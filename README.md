@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rustamjon(Rostam)</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
 
-<p align="center"><i>Currently, I am mentoring 4+ students to become a Full-Stack Web Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
+<p align="center"><i>Currently, I am mentoring 5+ students to become a Full-Stack Web Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxon7&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 
@@ -14,7 +14,7 @@
 <!-- ![github profile pic](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif) -->
 
 
-- 🔭 I’m currently training 4+ students to become a Full-stack software developer.
+- 🔭 I’m currently training 5+ students to become a Full-stack software developer.
 
 - 👨🏻‍🎓 I have currently completed Internship at iTechArt Group.
 
