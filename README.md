@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Anything related to coding**
 
-- 📫 How to reach me [Email](rustamxontolipov788@gmail.com) | [Linkedin](https://linkedin.com/in/rustamjon-tolipov-6a831020b)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rustamjon-tolipov/) | [rustamxontolipov788@gmail.com](rustamxontolipov788@gmail.com)
 
 - ⚡ Fun fact **Coding has over 700 languages 🤔**
 
@@ -55,9 +55,7 @@
 <div align= 'center'>
 <a target="_blank"
 href="https://www.linkedin.com/in/rustamjon-tolipov/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="https://rustamxontolipov788@gmail.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>  <a target="_blank"
 <div/>
   
 <p align= 'center'>
