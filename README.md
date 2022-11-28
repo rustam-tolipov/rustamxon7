@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Anything related to coding**
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rustamjon-tolipov/) | [rustamxontolipov788@gmail.com](rustamxontolipov788@gmail.com)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rustamjon-tolipov/) | [rustamxontolipov788@gmail.com](mailto:rustamxontolipov788@gmail.com)
 
 - ⚡ Fun fact **Coding has over 700 languages 🤔**
 
