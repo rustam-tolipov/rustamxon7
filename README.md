@@ -54,9 +54,9 @@
 <h3 align= 'center'>Let's Connect</h3>
 <div align= 'center'>
 <a target="_blank"
-href="https://linkedin.com/in/rustamjon-tolipov-6a831020b"><img
+href="https://www.linkedin.com/in/rustamjon-tolipov/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="rustamxontolipov788@gmail.com"><img
+href="https://rustamxontolipov788@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
 <div/>
   
