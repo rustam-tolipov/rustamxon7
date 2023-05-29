@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently training 5+ students to become a Full-stack software developer.
 
-- 👨🏻‍🎓 I have currently completed Internship at iTechArt Group.
+- 👨🏻‍🎓 I have been woring on e-commerece website with Rails API and React JS.
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Rustamxon7)
 
-- 💻 Language stack: JavaScript, React, Ruby, Ruby on Rails, Rest API
+- 💻 Language stack: JavaScript, React, Ruby, Ruby on Rails, Redis
 
 - 🌱  I'm smoothing my Rails and React skills
 
