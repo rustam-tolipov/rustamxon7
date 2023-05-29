@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rustamjon(Rostam)</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
 
+![Black Green Modern Digital Marketing Open to Work LinkedIn Banner](https://github.com/Rustamxon7/rustamxon7/assets/69011963/f427f666-4dd2-48c9-90ed-7c29597ce111)
+
 <p align="center"><i>Currently, I am mentoring 5+ students to become a Full-Stack Web Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxon7&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
