@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Uzbekistan</h3> -->
 
 <!-- ![Black Green Modern Digital Marketing Open to Work LinkedIn Banner](https://github.com/Rustamxon7/rustamxon7/assets/69011963/f427f666-4dd2-48c9-90ed-7c29597ce111) -->
-![Screenshot 2023-12-26 at 09 32 16](https://github.com/Rustamxon7/rustamxon7/assets/69011963/d78df031-7d97-48dd-9fe5-76d16ec747ca)
+![Screenshot 2023-12-26 at 15 29 28](https://github.com/Rustamxon7/rustamxon7/assets/69011963/7504f592-5e03-45e0-8fd5-b2fd4e69b87e)
 
 <p align="center"><i>Currently, I am mentoring 5+ students to become a Full-Stack Web Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
 
