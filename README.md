@@ -1,5 +1,4 @@
-<!-- ![Header](https://github.com/Rustamxon7/rustamxon7/assets/69011963/7504f592-5e03-45e0-8fd5-b2fd4e69b87e) -->
-![Screenshot 2023-12-26 at 15 53 28](https://github.com/Rustamxon7/rustamxon7/assets/69011963/629eb462-c5e7-4b57-b77d-c563f28acdec)
+![header](https://github.com/Rustamxon7/rustamxon7/assets/69011963/be318e15-6359-40d2-bab5-2913cae3e6b2)
 
 [![rustam-tolipov.com](https://img.shields.io/badge/-RUSTAMTOLIPOV.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.rustam-tolipov.com/)
 
