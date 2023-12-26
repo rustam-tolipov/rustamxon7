@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rustamjon(Rostam)</h1>
-<h3 align="center">A passionate developer from Uzbekistan</h3>
+<!-- <h1 align="center">Hi 👋, I'm Rustamjon(Rostam)</h1>
+<h3 align="center">A passionate developer from Uzbekistan</h3> -->
 
-![Black Green Modern Digital Marketing Open to Work LinkedIn Banner](https://github.com/Rustamxon7/rustamxon7/assets/69011963/f427f666-4dd2-48c9-90ed-7c29597ce111)
+<!-- ![Black Green Modern Digital Marketing Open to Work LinkedIn Banner](https://github.com/Rustamxon7/rustamxon7/assets/69011963/f427f666-4dd2-48c9-90ed-7c29597ce111) -->
+![Screenshot 2023-12-26 at 09 32 16](https://github.com/Rustamxon7/rustamxon7/assets/69011963/d78df031-7d97-48dd-9fe5-76d16ec747ca)
 
 <p align="center"><i>Currently, I am mentoring 5+ students to become a Full-Stack Web Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
 
@@ -16,13 +17,13 @@
 <!-- ![github profile pic](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif) -->
 
 
-- 🔭 I’m currently training 5+ students to become a Full-stack software developer.
+- 🔭 I am actively seeking full-time job opportunities.
 
-- 👨🏻‍🎓 I have been woring on e-commerece website with Rails API and React JS.
+- 👨🏻‍🎓 I have been working on an e-commerce website using Rails API and React JS.
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Rustamxon7)
 
-- 💻 Language stack: JavaScript, React, Ruby, Ruby on Rails, Redis
+- 💻 Languages&Stack: JavaScript, React JS, Ruby, Ruby on Rails, Redis
 
 - 🌱  I'm smoothing my Rails and React skills
 
