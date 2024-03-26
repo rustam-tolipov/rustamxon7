@@ -10,12 +10,14 @@
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
+![React Query](https://img.shields.io/badge/-React%20Query-000000?style=flat&logo=React%20Query&logoColor=FFFFFF)
 ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=Tailwind%20CSS&logoColor=38B2AC)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 **Design and Collaboration tools**
 
@@ -24,11 +26,13 @@
 ![Framer](https://img.shields.io/badge/-Framer-000000?style=flat&logo=Framer&logoColor=0055FF)
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=Trello&logoColor=0079BF)
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack&logoColor=4A154B)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=Swagger&logoColor=85EA2D)
 
 **Additional services and platforms**
 
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-000000?style=flat&logo=Cloudinary&logoColor=4285F4)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=000000)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku&logoColor=430098)
 
 <!-- **Web/Full Stack projects**
 
@@ -46,4 +50,4 @@
 
 Credits: [rustamxon7](https://github.com/rustamxon7)
 
-Last Edited on: 25/12/2023
+Last Edited on: 26/03/2024
